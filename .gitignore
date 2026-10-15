@@ -1,0 +1,40 @@
+# Local secrets/configuration
+.env
+.env.*
+!.env.example
+/config.local.php
+config.local.php
+config.local.*.php
+
+# IDE and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs, temp and backups
+*.log
+*.tmp
+*.temp
+*.bak
+*.backup
+*.swp
+*.swo
+php_errorlog
+
+# Local database exports / backups (keep the curated root database.sql and database/seed_demo.sql)
+/comic_book_world*.sql
+/database/*_export.sql
+/database/*_dump.sql
+/database/*_backup.sql
+/database/live_*.sql
+*.sql.bak
+*.sql.backup
+
+# Local archives and generated files
+*.zip
+/uploads/
+storage/
+cache/
+/test-output/
+coverage/
