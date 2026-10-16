@@ -1,19 +1,5 @@
 # Comic Book World — V1.0 Release Candidate
 
-## Portfolio Screenshots
-
-### Store Homepage
-![ComicBookWorld homepage](docs/screenshots/home-page.jpeg)
-
-### Product Catalogue
-![ComicBookWorld product catalogue](docs/screenshots/product-catalogue.jpeg)
-
-### Admin Dashboard — Overview
-![Admin dashboard overview](docs/screenshots/admin-dashboard-overview.png)
-
-### Administrator Management
-![Administrator management](docs/screenshots/admin-management.png)
-
 
 A PHP and MySQL web application for browsing and purchasing physical comic books, with a customer storefront and an administrative management panel. This is a portfolio / local-development project built with WAMP.
 
@@ -110,7 +96,18 @@ The connection settings are read from `config.local.php` when that file exists; 
 
 ## Portfolio screenshots
 
-Add screenshots to a folder such as `docs/screenshots/` before creating the GitHub release. Avoid screenshots containing personal email addresses, session details, private customer data or passwords.
+
+### Store Homepage
+![ComicBookWorld homepage](docs/screenshots/home-page.jpeg)
+
+### Product Catalogue
+![ComicBookWorld product catalogue](docs/screenshots/product-catalogue.jpeg)
+
+### Admin Dashboard — Overview
+![Admin dashboard overview](docs/screenshots/admin-dashboard-overview.png)
+
+### Administrator Management
+![Administrator management](docs/screenshots/admin-management.png)
 
 ## Versioning plan
 
